@@ -1,0 +1,129 @@
+{
+  "stat": {
+    "cid": "a:2556e4|t:323|s:1516182276825",
+    "code": 0,
+    "data": "",
+    "notificationList": [
+      
+    ],
+    "stateList": [
+      {
+        "code": 0,
+        "length": 1470,
+        "msg": "成功"
+      }
+    ],
+    "systime": 1516182276829
+  },
+  "content": [
+    {
+      "value": [
+        {
+          "h5Link": "http://h5.yit.com",
+          "identity": "index",
+          "title": "首页"
+        },
+        {
+          "h5Link": "http://h5.yit.com/activity/924.html",
+          "identity": "924",
+          "title": "特惠"
+        },
+        {
+          "h5Link": "/fcate/8.html",
+          "identity": "fcate/8",
+          "title": "服饰"
+        },
+        {
+          "h5Link": "/fcate/21.html",
+          "identity": "fcate/21",
+          "title": "饰品"
+        },
+        {
+          "h5Link": "/fcate/102.html",
+          "identity": "fcate/102",
+          "title": "美妆"
+        },
+        {
+          "h5Link": "/fcate/110.html",
+          "identity": "fcate/110",
+          "title": "洗护"
+        },
+        {
+          "h5Link": "/fcate/94.html",
+          "identity": "fcate/94",
+          "title": "母婴"
+        },
+        {
+          "h5Link": "/fcate/36.html",
+          "identity": "fcate/36",
+          "title": "数码"
+        },
+        {
+          "h5Link": "/fcate/29.html",
+          "identity": "fcate/29",
+          "title": "家电"
+        },
+        {
+          "h5Link": "/fcate/47.html",
+          "identity": "fcate/47",
+          "title": "家居"
+        },
+        {
+          "h5Link": "/fcate/49.html",
+          "identity": "fcate/49",
+          "title": "家具"
+        },
+        {
+          "h5Link": "/fcate/51.html",
+          "identity": "fcate/51",
+          "title": "器物"
+        },
+        {
+          "h5Link": "/fcate/55.html",
+          "identity": "fcate/55",
+          "title": "运动"
+        },
+        {
+          "h5Link": "/fcate/53.html",
+          "identity": "fcate/53",
+          "title": "旅行"
+        },
+        {
+          "h5Link": "/fcate/125.html",
+          "identity": "fcate/125",
+          "title": "餐厨"
+        },
+        {
+          "h5Link": "/fcate/115.html",
+          "identity": "fcate/115",
+          "title": "美食"
+        },
+        {
+          "h5Link": "/fcate/2.html",
+          "identity": "fcate/2",
+          "title": "图书"
+        },
+        {
+          "h5Link": "/fcate/87.html",
+          "identity": "fcate/87",
+          "title": "文房"
+        },
+        {
+          "h5Link": "/fcate/57.html",
+          "identity": "fcate/57",
+          "title": "宠物"
+        },
+        {
+          "h5Link": "http://h5.yit.com/activity/952.html",
+          "identity": "952",
+          "title": "礼物"
+        },
+        {
+          "h5Link": "http://h5.yit.com/activity/948.html",
+          "identity": "948",
+          "title": "全部"
+        }
+      ]
+    }
+  ]
+}
